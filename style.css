@@ -3,17 +3,12 @@ body {
     padding: 0;
     background-color: #000;
     color: #fff;
-    -webkit-text-size-adjust: none
 }
 
 p {
+    margin: 20px;
     font-family: IBM Plex Mono, monospace;
     font-size: 13px;
-    line-height: 13px;
     font-style: normal;
     font-weight: 400;
-}
-
-.container {
-    margin: 20px;
 }
